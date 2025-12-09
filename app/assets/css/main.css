@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+html, body {
+    background-color: white;  /* Or your preferred bg color */
+    color: black;  /* To avoid blue text too */
+}
+
+button{
+    cursor: pointer;
+}
