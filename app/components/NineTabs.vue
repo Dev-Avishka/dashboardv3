@@ -1,4 +1,5 @@
 <script setup lang="ts">
+//nine tabs
 import { ref } from 'vue';
 
 const tabs = [

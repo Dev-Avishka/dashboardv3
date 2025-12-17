@@ -1,11 +1,4 @@
 <script setup lang="ts">
-// this component displays user activity in a card format
-/*
-Card example
-(rounded profile pic)  John Doe        Activity
-                  2 hours ago
-                  Status
- */
 
 const props = defineProps<{
   userName: string;
